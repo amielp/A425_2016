@@ -23,4 +23,9 @@ By the end of this class you should expect to be able to:
 ## Text Book
 There are a number of useful textbooks that you can draw information from. We will be using: “Introduction to Cosmology: Barbara Ryden (Pearson Addison-Wesley)
 
-## 
+## How to update a fork 
+If you have a fork of this repository and you want to update that fork to have it synchronized with the original repository there are two steps (this must be done at the level of the cloned repo you cant do this using the Github interface):
+- First you configure a clone of a fork so you can update to the upstream/master (you do this once per repo)
+  - https://help.github.com/articles/configuring-a-remote-for-a-fork/
+- Every time you want to update to the lastest version you
+  - https://help.github.com/articles/syncing-a-fork/
